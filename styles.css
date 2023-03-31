@@ -8,6 +8,12 @@ body {
     padding: 0;
     margin: 0;
     background: linear-gradient(to right, #6A499F, #da68a0);
+    /* background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+    background-image: linear-gradient(to bottom, #ebc0fd 0%, #d9ded8 100%);
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%); */
+    background-image: linear-gradient(45deg, #cfc099 0%, #dddcd7 24%, #e2c9cc 30%, #e7627d 46%, #b8235a 59%, #801357 71%, #1b0c55 84%, #1c1a27 100%);
 }
 
 .calculator-grid {
